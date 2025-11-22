@@ -1,0 +1,21 @@
+{
+  "name": "practica-de-programacio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practica10.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriancoreas/Practica-de-programacion.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriancoreas/Practica-de-programacion/issues"
+  },
+  "homepage": "https://github.com/Adriancoreas/Practica-de-programacion#readme"
+}
